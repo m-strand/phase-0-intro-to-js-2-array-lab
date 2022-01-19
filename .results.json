@@ -5,15 +5,15 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2022-01-06T04:45:44.482Z",
-    "end": "2022-01-06T04:45:44.972Z",
-    "duration": 490
+    "start": "2022-01-19T02:51:24.041Z",
+    "end": "2022-01-19T02:51:25.209Z",
+    "duration": 1168
   },
   "tests": [
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,7 +27,7 @@
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js Array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,21 +48,21 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,7 +94,7 @@
     {
       "title": "prepends a cat to the beginning of the cats array",
       "fullTitle": "index.js Array functions destructivelyPrependCat(name) prepends a cat to the beginning of the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,21 +115,21 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 1,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
